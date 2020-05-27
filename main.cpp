@@ -14,7 +14,7 @@ void printArray(T arr[], size_t size)
 
 int main()
 {
-    int arr[] = {4, 5, 2, 1, 0};
+    int arr[] = {4, 0, 0, 0, 0};
     size_t size = 5;
     printArray(arr, size);
     //quickSort(arr, size);
